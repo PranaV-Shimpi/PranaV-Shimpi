@@ -26,3 +26,5 @@
 
 [website]: https://biotree.now.sh/pranavshimpi/
 [linkedin]: https://www.linkedin.com/in/pranav-shimpi/
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=PranaV-Shimpi" alt="PranaV-Shimpi" /> </p>
