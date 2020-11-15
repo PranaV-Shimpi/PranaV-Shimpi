@@ -23,8 +23,9 @@
   <summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="PranaV's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranaV-Shimpi" />
-</details>
+
 [website]: https://biotree.now.sh/pranavshimpi/
 [linkedin]: https://www.linkedin.com/in/pranav-shimpi/
 
+</details>
 
