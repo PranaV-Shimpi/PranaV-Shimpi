@@ -1,7 +1,7 @@
 ### Hi there, I'm PRANAV SHIMPI 👋
 - 🔭 Working on ...Web Development and NLP
 - 🌱 I’m currently learning ... Flutter & Data Science
-- 👯 Looking to collaborate on ... Open source 
+- 👯 Looking forward to collaborate on ... Open source 
 
 
 - 📫 How to reach me: ...23pranavshimpi@gmail.com 
