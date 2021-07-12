@@ -1,6 +1,6 @@
-### Hi there, I'm PRANAV SHIMPI 👋
+### Hi there, I'm PranaV Shimpi 👋
 - 🔭 Working on ...Web Development and NLP
-- 🌱 I’m currently learning ... React.js , Flutter & Data Science
+- 🌱 I’m currently learning ... React.js & Data Science
 - 👯 Looking forward to collaborate on ... Open source 
 
 
