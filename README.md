@@ -16,6 +16,7 @@
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Python-0000?style=for-the-badge&logo=python&logoColor=61DAFB)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
@@ -24,8 +25,10 @@
  
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-    <img alt="PranaV's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PranaV-Shimpi&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /><img alt="PranaV's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranaV-Shimpi&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-
+  <details>
+    <img alt="PranaV's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PranaV-Shimpi&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
+    <img alt="PranaV's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranaV-Shimpi&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  </details>
 <br />
 <br />
 
