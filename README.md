@@ -25,10 +25,10 @@
  
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-  <details>
+ 
     <img alt="PranaV's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PranaV-Shimpi&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
     <img alt="PranaV's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranaV-Shimpi&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-  </details>
+
 <br />
 <br />
 
