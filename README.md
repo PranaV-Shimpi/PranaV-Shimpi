@@ -1,7 +1,10 @@
-# 👋Hi there , I'm PranaV Shimpi 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm PranaV Shimpi</h1>
+<h3 align="center">Software Engineer </h3>
+<p align="center">
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/PranaV-Shimpi) 
 <br> <br>
+  
 - 🔭 I'am Working on ... Full Stack Web Development 
 - 🌱 I’m currently learning ... React.js & Machine Learning
 
@@ -15,22 +18,17 @@
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-##  My Github Status 👩🏻‍💻
-<details>
-  <summary color"">:zap: GitHub Stats</summary>
-
-  <img align="left" alt="PranaV's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PranaV-Shimpi&show_icons=true&hide_border=true" />
-
+##  My Github Stats 👩🏻‍💻
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <img alt="PranaV's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PranaV-Shimpi&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img alt="PranaV's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranaV-Shimpi&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 </details>
 <br />
-<details>
-  <summary>:zap: Most Used Languages</summary>
+<br />
 
-<img align="left" alt="PranaV's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranaV-Shimpi" />
-</details>
-
-
----
+  ---
 ## :dart: Find me Interesting? 
 **Say Hi to me on [LinkedIn](https://www.linkedin.com/in/pranav-shimpi/)** :heart: 
 
@@ -40,13 +38,9 @@
 
  - 💌 [@23pranavshimpi@gmail.com](mailto:23pranavshimpi@gmail.com)
 
-
-
-[<img align="left" alt="holisitc_developer | Website " width="22px"  color="white" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<br />
 <br />
 
-[website]: https://pranavshimpi.ck.page/
+ https://pranavshimpi.ck.page/
 
 
 
