@@ -5,9 +5,9 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/PranaV-Shimpi) 
 <br> <br>
   
-- 🔭 I'am Working on ... Full Stack Web Development 
+- 🔭 I'am Working on ... Full Stack WebApp - Memoeries 
 - 🌱 I’m currently learning ... **React.js** & **Machine Learning**
-- 💬 Talk to me about New Technologies. 
+- 💬  𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 here ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 Pronouns: He/Him
 
 
@@ -21,13 +21,15 @@
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-##  My Github Stats 👩🏻‍💻
+## My Github Stats 👩🏻‍💻
 
-  <img alt="PranaV's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PranaV-Shimpi&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img alt="PranaV's Top Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranaV-Shimpi&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-<br />
 
-  ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PranaV-Shimpi&show_icons=true&locale=en&layout=compact" alt="PranaV-Shimpi"/></p?
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PranaV-Shimpi&show_icons=true&locale=en&layout=compact" alt="PranaV-Shimpi"  width = 410 /></p>
+
+
+---
 ## :dart: Find me Interesting? 
 **Say Hi to me on [LinkedIn](https://www.linkedin.com/in/pranav-shimpi/)** :heart: 
 
@@ -39,7 +41,7 @@
 
 <br />
 
- https://pranavshimpi.ck.page/
+###### 🌐 https://pranavshimpi.ck.page/
 
 
 
