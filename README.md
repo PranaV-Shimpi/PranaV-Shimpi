@@ -31,7 +31,7 @@
 <br />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PranaV-Shimpi&locale=en&layout=compact" alt="PranaV-Shimpi" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=PranaV-Shimpi&locale=en" alt="PranaV-Shimpi" width="410" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=PranaV-Shimpi&locale=en" alt="PranaV-Shimpi" /></p>
 
   ---
 ## :dart: Find me Interesting? 
