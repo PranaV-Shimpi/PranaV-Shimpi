@@ -5,7 +5,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/PranaV-Shimpi) 
 <br> <br>
   
-- 🔭 I'am Working on ... Full Stack WebApp - Memoeries 
+- 🔭 I'am Working on ... Full Stack WebApp - Memories 
 - 🌱 I’m currently learning ... **React.js** & **Machine Learning**
 - 💬  𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 here ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 Pronouns: He/Him/His
