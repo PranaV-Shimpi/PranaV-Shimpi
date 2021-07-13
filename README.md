@@ -1,4 +1,7 @@
-### Hi there, I'm PranaV Shimpi 👋
+# 👋Hi there , I'm PranaV Shimpi 
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/PranaV-Shimpi) 
+
 - 🔭 Working on ...Web Development and NLP
 - 🌱 I’m currently learning ... React.js & Data Science
 - 👯 Looking forward to collaborate on ... Open source 
@@ -14,12 +17,9 @@
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-
-
-
-### Connent With Me 
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" color="White" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="holisitc_developer" width="22px" color="White" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+## Connent With Me 
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="holisitc_developer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <br />
 <br />
 ---
@@ -29,14 +29,14 @@
 
 </details>
 
-
+##  My Github Status 👩🏻‍💻
 <details>
   <summary color ="white">:zap: Most Used Languages</summary>
 
 <img align="left" alt="PranaV's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranaV-Shimpi" />
 
 [website] :https://pranavshimpi.ck.page/
-[LinkedIn] :https://www.linkedin.com/in/pranav-shimpi/
+[Linkedin] :https://www.linkedin.com/in/pranav-shimpi/
 
 </details>
 <br />
