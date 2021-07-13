@@ -1,10 +1,10 @@
 # 👋Hi there , I'm PranaV Shimpi 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/PranaV-Shimpi) 
-
-- 🔭 Working on ...Web Development and NLP
-- 🌱 I’m currently learning ... React.js & Data Science
-- 👯 Looking forward to collaborate on ... Open source 
+<br> <br>
+- 🔭 I'am  Working on ...Web Development 
+- 🌱 I’m currently learning ... React.js & Machine Learning
+- 
 
 
 - 📫 How to reach me: ...23pranavshimpi@gmail.com 
@@ -18,26 +18,28 @@
 
 
 ## Connent With Me 
+
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [<img align="left" alt="holisitc_developer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 <br />
 <br />
+
 ---
+##  My Github Status 👩🏻‍💻
 <details>
-  <summary color="White">:zap: GitHub Stats</summary>
+  <summary color"">:zap: GitHub Stats</summary>
+
   <img align="left" alt="PranaV's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PranaV-Shimpi&show_icons=true&hide_border=true" />
 
 </details>
-
-##  My Github Status 👩🏻‍💻
-<details>
-  <summary color ="white">:zap: Most Used Languages</summary>
-
-<img align="left" alt="PranaV's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranaV-Shimpi" />
-
-[website] :https://pranavshimpi.ck.page/
-[Linkedin] :https://www.linkedin.com/in/pranav-shimpi/
-
-</details>
 <br />
-<p align="center" color ="white"> <img src="https://komarev.com/ghpvc/?username=PranaV-Shimpi" alt="PranaV-Shimpi" /> </p>
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="PranaV's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer411" />
+</details>
+
+[website]: https://pranavshimpi.ck.page/
+[linkedin]: https://www.linkedin.com/in/pranav-shimpi/
