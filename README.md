@@ -6,11 +6,6 @@
 - 🌱 I’m currently learning ... React.js & Machine Learning
 
 
-#### Any Project you want me a part of ?
-
- - 👀 Ping me on [Twitter](https://twitter.com/PranaVShimpii)
-
- - 💌 [@guptamiley3012@gmail.com](mailto:23pranavshimpi@gmail.com)
 
 ## My skills 🚀
 
@@ -19,18 +14,7 @@
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
----
-## Connent With Me 
 
-[<img align="left" alt="holisitc_developer" width="22px" color="white" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-<br />
-<br />
-
-## :dart: Find me Interesting? 
-**Say Hi to me on [LinkedIn](https://www.linkedin.com/in/pranav-shimpi/)** :heart: 
-
----
 ##  My Github Status 👩🏻‍💻
 <details>
   <summary color"">:zap: GitHub Stats</summary>
@@ -42,14 +26,27 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="PranaV's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer411" />
+<img align="left" alt="PranaV's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranaV-Shimpi" />
 </details>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PranaV-Shimpi" />
+
+---
+## :dart: Find me Interesting? 
+**Say Hi to me on [LinkedIn](https://www.linkedin.com/in/pranav-shimpi/)** :heart: 
+
+#### Any Project you want me a part of ?
+
+ - 👀 Ping me on [Twitter](https://twitter.com/PranaVShimpii)
+
+ - 💌 [@23pranavshimpi@gmail.com](mailto:23pranavshimpi@gmail.com)
+
+
+
+[<img align="left" alt="holisitc_developer | Website " width="22px"  color="white" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<br />
+<br />
 
 [website]: https://pranavshimpi.ck.page/
-
-
 
 
 
