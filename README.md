@@ -6,7 +6,9 @@
 <br> <br>
   
 - 🔭 I'am Working on ... Full Stack Web Development 
-- 🌱 I’m currently learning ... React.js & Machine Learning
+- 🌱 I’m currently learning ... **React.js** & **Machine Learning**
+- 💬 Talk to me about New Technologies. 
+- 😄 Pronouns: He/Him
 
 
 
@@ -19,12 +21,12 @@
 
 
 ##  My Github Stats 👩🏻‍💻
-<details> 
+ 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <img alt="PranaV's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PranaV-Shimpi&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
   <img alt="PranaV's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranaV-Shimpi&langs_count=10&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-</details>
+
 <br />
 <br />
 
