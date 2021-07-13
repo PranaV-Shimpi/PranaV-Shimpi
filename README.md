@@ -29,6 +29,11 @@
 
 <br />
 <br />
+ <p align="center">
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PranaV-Shimpi&locale=en&layout=compact" alt="PranaV-Shimpi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PranaV-Shimpi&locale=en" alt="PranaV-Shimpi" width="410" /></p>
 
   ---
 ## :dart: Find me Interesting? 
