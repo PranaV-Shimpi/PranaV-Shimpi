@@ -28,8 +28,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PranaV-Shimpi&show_icons=true&locale=en&layout=compact" alt="PranaV-Shimpi"  width = 410 /></p>
 
 <br />
-
-
 ## :dart: Find me Interesting? 
 **Say Hi to me on [LinkedIn](https://www.linkedin.com/in/pranav-shimpi/)** :heart: 
 
