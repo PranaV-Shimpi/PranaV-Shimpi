@@ -43,7 +43,7 @@
 
 ---
 
-#### 🌐 https://pranavshimpi.ck.page/       <p align="center"> <img src="https://komarev.com/ghpvc/?username=PranaV-Shimpi" alt="PranaV-Shimpi" /
+#### 🌐 https://pranavshimpi.ck.page/       <p align="right"> <img src="https://komarev.com/ghpvc/?username=PranaV-Shimpi" alt="PranaV-Shimpi" /></p>
 
 
 
