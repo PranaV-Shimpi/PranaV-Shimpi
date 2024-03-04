@@ -4,9 +4,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **Full Stack WebApp - Memories**
-
-- 🌱 I’m currently learning **React.js & Blockchain**
+- 🌱 **React.js & Blockchain**
 
 - 💬 Ask me about **react, frontend, responsive web design** 𝙸 will be 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 
