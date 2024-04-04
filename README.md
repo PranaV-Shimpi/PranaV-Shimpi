@@ -2,15 +2,20 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 <p align="center">
 
-<br>
+👋 Hey there! I'm Pranav, your friendly frontend whiz-kid. I play with code to make websites and apps super cool and easy to use.
 
-- 🌱 **React.js & Blockchain**
+Imagine me as the web's own superhero, zapping boring sites with my coding powers to make them awesome! With just a bit of this and a bit of that (HTML, CSS, and JavaScript, React), I whip up digital masterpieces that'll make you go "wow!"
+
+So, hop on board this fun coding adventure with me. We'll crack jokes, have a blast, and create web magic that'll make everyone smile!
+
+Ready to join the fun? Let's dive in and make some web magic happen! ✨🚀
+
+<br>
+<br>
 
 - 💬 Ask me about **react, frontend, responsive web design** 𝙸 will be 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 
 - 📫 Reach out to me: **[LinkedIn](https://in.linkedin.com/in/pranav-shimpi)**
-
-- 😄 Pronouns: He/Him/His
 
 - [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/PranaV-Shimpi) 
 
