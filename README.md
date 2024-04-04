@@ -36,14 +36,6 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 
 
-  
-## My Github Stats 👩🏻‍💻
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PranaV-Shimpi&show_icons=true&locale=en&layout=compact" alt="PranaV-Shimpi"/></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PranaV-Shimpi&show_icons=true&locale=en&layout=compact" alt="PranaV-Shimpi"  width = 410 /></p>
-
-
 ## :dart: Find me Interesting? 
 
 <h4 align="left">Say Hi to me on:&nbsp;<a href="https://linkedin.com/in/pranav-shimpi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav-shimpi" height="15" width="30" /></a>&nbsp;<a href="https://twitter.com/pranaavshimpi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranaavshimpi" height="15" width="30" /></a>
