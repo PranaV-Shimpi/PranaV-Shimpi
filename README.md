@@ -11,7 +11,6 @@ So, hop on board this fun coding adventure with me. We'll crack jokes, have a bl
 Ready to join the fun? Let's dive in and make some web magic happen! ✨🚀
 
 <br>
-<br>
 
 - 💬 Ask me about **react, frontend, responsive web design** 𝙸 will be 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 
