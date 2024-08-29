@@ -1,18 +1,18 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm PranaV Shimpi</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <p align="center">
+ 
+👋 Hi there! I’m Pranav, a passionate Frontend Developer who loves bringing ideas to life with clean, efficient code.
 
-👋 Hey there! I'm Pranav, your friendly frontend whiz-kid. I play with code to make websites and apps super cool and easy to use.
+From crafting responsive and visually appealing websites using HTML, CSS, JavaScript, and React to managing state seamlessly with Redux, I ensure every user interaction feels smooth and intuitive. I’m also well-versed in API integration and GraphQL, enabling dynamic, data-driven experiences that engage users. Plus, with experience in Cloud services like AWS, I can help scale and optimize your projects to meet any demand.
 
-Imagine me as the web's own superhero, zapping boring sites with my coding powers to make them awesome! With just a bit of this and a bit of that (HTML, CSS, and JavaScript, React), I whip up digital masterpieces that'll make you go "wow!"
+Whether it’s building from scratch or enhancing existing systems, I’m here to deliver high-quality, robust solutions. If you're looking for a developer who can combine creativity, technical know-how, and a bit of fun, let’s connect!
 
-So, hop on board this fun coding adventure with me. We'll crack jokes, have a blast, and create web magic that'll make everyone smile!
-
-Ready to join the fun? Let's dive in and make some web magic happen! ✨🚀
+Let’s collaborate to turn your vision into reality! ✨🚀
 
 <br>
 
-- 💬 Ask me about **react, frontend, responsive web design** 𝙸 will be 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 💬 Ask me about **frontend, web design** 𝙸 will be 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 
 - 📫 Reach out to me: **[LinkedIn](https://in.linkedin.com/in/pranav-shimpi)**
 
@@ -23,21 +23,21 @@ Ready to join the fun? Let's dive in and make some web magic happen! ✨🚀
 ## My skills 🚀
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 
 
 ## :dart: Find me Interesting? 
