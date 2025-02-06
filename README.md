@@ -12,7 +12,7 @@ Let’s collaborate to turn your vision into reality! ✨🚀
 
 <br>
 
-- 💬 Ask me about **frontend, web design** 𝙸 will be 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
+- 💬 Ask me about **frontend, fullstack , web design** 𝙸 will be 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 
 - 📫 Reach out to me: **[LinkedIn](https://in.linkedin.com/in/pranav-shimpi)**
 
