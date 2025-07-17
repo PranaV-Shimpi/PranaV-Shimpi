@@ -2,11 +2,15 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 <p align="center">
  
-👋 Hi there! I’m Pranav, a passionate Frontend Developer who loves bringing ideas to life with clean, efficient code.
+👋 Hi there! I’m Pranav, a passionate Software Developer who loves bringing ideas to life with clean, efficient code.
 
-From crafting responsive and visually appealing websites using HTML, CSS, JavaScript, and React to managing state seamlessly with Redux, I ensure every user interaction feels smooth and intuitive. I’m also well-versed in API integration and GraphQL, enabling dynamic, data-driven experiences that engage users. Plus, with experience in Cloud services like AWS, I can help scale and optimize your projects to meet any demand.
+As a Senior Software Developer with 4+ years of hands-on experience, I specialize in building scalable, high-performance web applications across the full stack. From crafting responsive, modern user interfaces with HTML, CSS, JavaScript, React.js, Next.js and Redux to developing robust backend services using Node.js, I bring end-to-end expertise that ensures seamless user experiences.
 
-Whether it’s building from scratch or enhancing existing systems, I’m here to deliver high-quality, robust solutions. If you're looking for a developer who can combine creativity, technical know-how, and a bit of fun, let’s connect!
+I’m highly proficient in API development and integration, including GraphQL, enabling dynamic, data-rich applications. My deep understanding of system design and scalability principles, paired with extensive experience in AWS cloud services, allows me to architect solutions that are both resilient and future-proof.
+
+I’ve had the privilege of contributing to high-impact projects for global brands like Microsoft, British Telecom, H&M, and Beam Suntory, consistently delivering quality at scale in fast-paced, enterprise environments.
+
+Whether it's optimizing performance, enhancing user engagement, or leading complex integrations, I bring a proven ability to turn ideas into reliable, maintainable, and scalable software. I’m here to deliver high-quality, robust solutions. If you're looking for a developer who can combine creativity, technical know-how, and a bit of fun, let’s connect!
 
 Let’s collaborate to turn your vision into reality! ✨🚀
 
